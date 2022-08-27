@@ -71,7 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-Abisola Kehinde is a graduate research assistant (Ph.D. Student) at Parker's lab at BC Children’s Hospital Research Institute and The University of British Columbia. My research is aimed towards tracking the metabolism of highly demanded nutrients (such as amino acids) in cancer cells and tumors. I'm a Biochemist, Health Volunteer, Education Counsellor, and Research Enthusiast.is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-
+Abisola Kehinde is a graduate research assistant (Ph.D. Student) at Parker's lab at BC Children’s Hospital Research Institute and The University of British Columbia. My research is aimed towards tracking the metabolism of highly demanded nutrients (such as amino acids) in cancer cells and tumors. I'm a Biochemist, Health Volunteer, Education Counsellor, and Research Enthusiast.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
