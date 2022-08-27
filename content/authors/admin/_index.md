@@ -72,4 +72,4 @@ highlight_name: true
 ---
 
 Abisola Kehinde is a graduate research assistant (Ph.D. Student) at Parker's lab at BC Children’s Hospital Research Institute and The University of British Columbia. My research is aimed towards tracking the metabolism of highly demanded nutrients (such as amino acids) in cancer cells and tumors. I'm a Biochemist, Health Volunteer, Education Counsellor, and Research Enthusiast.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
