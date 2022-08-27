@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abisola Zainab Kehinde
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student Biochemistry and Molecular Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of British Columbia
+    url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a graduate research assistant (Ph.D. Student) at Parker's lab at BC Children’s Hospital Research Institute and The University of British Columbia. My research is aimed towards tracking the metabolism of highly demanded nutrients (such as amino acids) in cancer cells and tumors. I'm a Biochemist, Health Volunteer, Education Counsellor, and Research Enthusiast.
 
 # Interests to show in About widget
 interests:
